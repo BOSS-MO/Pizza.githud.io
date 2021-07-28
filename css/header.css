@@ -1,0 +1,98 @@
+.header {
+	height:500px;
+	flex-direction: row;	
+	
+}
+
+
+.tomoto {
+	position:absolute;
+	left:-40px;
+}
+
+.best-saler {
+	
+		
+}
+
+.enegry {
+	padding-top:30px;
+	display:flex;
+}
+
+#fire{
+	text-shadow: rgba(238, 121, 66) -1px -2px 0.5em;
+}
+
+.detail-fire{
+	padding-left:10px;	
+}
+
+#cheese{
+	text-shadow: rgba(238, 121, 66) -1px -2px 0.5em;
+	padding-left:80px;
+
+}
+
+.cheese{
+	display:flex;
+	padding-left:5px;	
+	
+}
+
+.detail-cheese{
+	padding-left:10px;
+}
+
+.order{
+	padding-top:50px;	
+	
+}
+
+#button1 {
+	border-radius: 20px;
+	background-color:#F90;
+	text-align:left;
+}
+
+#order{
+	padding-top:5px;
+	padding-left:5px;
+		
+}
+
+#next1{
+	border:1px solid #999;	
+	background-color:#E2E2E2;
+	width:40px;
+	height:30px;
+	border-radius: 5px;
+	border-left:200px;
+	padding-top:5px;
+	padding-left:15px;
+}
+
+.pizza-seafood{
+	padding-left:60%;
+	margin-top:-38%;
+}
+
+.more{
+	display:flex;
+	
+}
+
+#more1{
+		
+}
+
+#more2{
+	padding-left:60px;
+	
+		
+}
+
+#more3{
+	padding-left:60px;
+		
+}

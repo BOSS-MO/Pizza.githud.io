@@ -1,0 +1,41 @@
+.transport{
+	margin-bottom:15%;
+}
+
+.title-transport{
+	border:0px solid orange;
+	width:120px;
+	height:28px;	
+	border-radius:20px;
+	color:orange;
+	background-color:#FFD5AA;
+	text-align:center;
+	padding-top:3px;	
+}
+
+.decription-transport{
+	margin-top:20px;
+	font-size:25px;
+	font-weight:bold;	
+}
+
+.left-transport{
+	margin-top:-45%;
+	font-size:15px;	
+}
+
+#card2{
+	margin-top:15%;
+	margin-bottom:10%;	
+}
+
+.right-transport{
+	margin-left:73%;
+	margin-top:-52%;	
+}
+
+#card4{
+	margin-top:55%;
+	margin-bottom:20%;	
+}
+

@@ -1,0 +1,80 @@
+.intro{
+	margin-top:15%;
+	display:flex;
+	margin-bottom:80px;		
+}
+
+.left{
+	width:45%;
+}
+
+.right{
+	width:55%;	
+}
+
+.title{
+	border:0px solid orange;
+	width:120px;
+	height:28px;	
+	text-align:center;
+	border-radius:20px;
+	color:orange;
+	background-color:#FFD5AA;
+	padding-top:3px;
+}
+
+
+
+.delicious {
+	margin-top:20px;
+	font-size:25px;
+	font-weight:bold;	
+}
+
+.decription-intro{
+	padding-top:10px;
+	font-size:14px;
+}
+
+.Ex{
+	padding-top:20px;
+	display:flex;	
+}
+
+.frame1{
+	
+   
+}
+
+.frame2{
+	padding-top:40px;
+	padding-left:30px;
+	
+		
+}
+
+.frame3{
+	padding-left:30px;
+	
+		
+}
+
+.des{
+	margin-top:-20px;
+	text-align:center;	
+}
+
+#vien{
+	border:1px dashed orange;	
+	background-color:#EFEFEF;
+}
+
+#vien2{
+	border:1px dashed orange;
+	background-color:#EFEFEF;	
+}
+
+#vien3{
+	border:1px dashed orange;	
+	background-color:#EFEFEF;
+}

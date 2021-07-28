@@ -1,0 +1,35 @@
+.review{
+	display:flex;
+	margin-bottom:50px;
+	margin-top:50px;
+}
+
+.left-rev{
+	width:40%;	
+}
+
+.right-rev{
+	width:60%;	
+}
+
+.title-review{
+	border:0px solid orange;
+	width:120px;
+	height:28px;	
+	border-radius:20px;
+	color:orange;
+	background-color:#FFD5AA;
+	text-align:center;
+	padding-top:3px;	
+}
+
+.decription-review{
+	margin-top:20px;
+	font-size:25px;
+	font-weight:bold;	
+}
+
+.detail-review{
+	font-size:12px;	
+	margin-bottom:20px;
+}

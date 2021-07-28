@@ -1,0 +1,32 @@
+.sub{
+	display:flex;
+}
+
+.title-sub{
+	border:0px solid orange;
+	width:120px;
+	height:28px;	
+	border-radius:20px;
+	color:orange;
+	background-color:#FFD5AA;
+	text-align:center;
+	padding-top:3px;	
+}
+
+.decription-sub{
+	margin-top:20px;
+	font-size:25px;
+	font-weight:bold;	
+}
+
+.left-sub{
+	width:60%;	
+}
+
+.right-sub{
+	width:40%;	
+}
+
+.gmail{
+		
+}

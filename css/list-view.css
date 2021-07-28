@@ -1,0 +1,51 @@
+    .list-view{
+    	display:flex;
+		height: 50px;
+    }
+    
+    .list{
+    	padding-top:20px;
+    }
+    
+    .top-list{
+    	display:flex;
+    	padding-left:10px;
+        padding-top:15px;
+		font-size:12px;
+    }
+    
+    .phone{
+    	padding-left:40px;
+        padding-top:20px;
+		font-size:12px;
+    }
+    
+    .detail-phone{
+    	position:relative;
+    	left:35px;
+        top:-30px;
+    }
+    
+    .email{
+    	padding-left:85px;
+        padding-top:20px;
+		font-size:12px;
+    }
+    
+    .detail-email{
+    	position:relative;
+    	left:35px;
+        top:-30px;
+    }
+    
+    .cart{
+    	padding-left:50px;
+        background-color:white;
+        padding-top:20px;
+    }
+    
+    .icon{
+    	padding-left:40px;
+    }
+    
+    $badge-font-size:.100em;

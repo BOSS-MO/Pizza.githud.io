@@ -1,0 +1,75 @@
+.menu{
+	margin-top:80px;
+	margin-bottom:80px;
+}
+
+.title-menu{
+	border:0px solid orange;
+	width:120px;
+	height:28px;	
+	border-radius:20px;
+	color:orange;
+	background-color:#FFD5AA;
+	text-align:center;
+	padding-top:3px;	
+}
+
+.decription-menu{
+	margin-top:20px;
+	font-size:25px;
+	font-weight:bold;	
+}
+
+.list-menu{
+	
+}
+
+.option{
+	margin-left:5px;
+	font-size:15px;
+	text-decoration:none;
+	color:black;
+}
+
+.menu-food-1{
+	display:flex;
+	flex-direction: row;	
+	margin-top:50px;
+	font-size:10px;
+	margin-left:50px;
+}
+
+#food2{
+	margin-left:50px;
+}
+
+#food3{
+	margin-left:50px;
+}
+
+#food4{
+	margin-left:50px;
+}
+
+.menu-food-2{
+	display:flex;
+	flex-direction: row;	
+	margin-top:50px;
+	font-size:10px;
+	margin-left:50px;
+}
+
+#food6{
+	margin-left:50px;
+}
+
+
+#food7{
+	margin-left:50px;
+}
+
+
+#food8{
+	margin-left:50px;
+}
+
